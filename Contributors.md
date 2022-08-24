@@ -1686,6 +1686,7 @@
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
 - [Niranjan Nlc](https://github.com/NiranjanNlc)
 - [Lu de Oliveira](https://github.com/ludeoliveira)
+  [Almog Kusayev](https://github.com/almog8k)
 - [Dongmei Zhou](https://github.com/dm-zhou)
 - [Tony Raud](https://github.com/lamineer)
 - [Yafet Berhanu](https://github.com/yaphet17)
